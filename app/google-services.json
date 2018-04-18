@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "486829100606",
+    "firebase_url": "https://volumiovibes.firebaseio.com",
+    "project_id": "volumiovibes",
+    "storage_bucket": "volumiovibes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486829100606:android:0a50a0873a7c2251",
+        "android_client_info": {
+          "package_name": "com.thebeginner.volumiovibes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486829100606-r2ho88mr6ltnsvjh4n0gkt251ho0l78r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thebeginner.volumiovibes",
+            "certificate_hash": "c6f2f34b600cb59f234de05ad8fbc5f083c082c9"
+          }
+        },
+        {
+          "client_id": "486829100606-5kiph61vk7sl5e4js02m790bcmdn6nug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0wK_2KdLkJ_g7VfVuQFq8r6dM9FwAORc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486829100606-5kiph61vk7sl5e4js02m790bcmdn6nug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
